@@ -1,4 +1,4 @@
-//Taking 2 integer numbers as input and then add, subtract, multiply and divide them. Finally print the output results.
+// Taking 2 integer numbers as input and then add, subtract, multiply and divide them. Finally print the output results.
 
 #include<stdio.h> // Include standard input/output library
 
