@@ -9,7 +9,7 @@ public class Main {
         int studentID = 222113;                  // Student's ID number
         char studentGrade = 'A';                 // Student's grade
         float studentFinalMarks = 75.5f;         // Student's final marks (float type for decimal values)
-        int studentPhoneNumber = 1747681997;     // Student's phone number (use appropriate data type for large numbers)
+        int studentPhoneNumber = 1747681997;     // Student's phone number (use appropriate data type for large numbers) 
         String studentAddress = "Mirpur";        // Student's address
         
         // Displaying the student's information
