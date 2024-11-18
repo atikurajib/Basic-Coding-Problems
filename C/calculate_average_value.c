@@ -1,4 +1,4 @@
-//Taking 3 float numbers and calculating the average of them.
+// Taking 3 float numbers and calculating the average of them.
 
 #include<stdio.h> // Include standard input/output library
 
