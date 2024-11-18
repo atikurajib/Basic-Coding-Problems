@@ -1,4 +1,4 @@
-//The length & breadth of a rectangle are input through the keyboard. Find out the rectangle’s area
+// The length & breadth of a rectangle are input through the keyboard. Find out the rectangle’s area.
 
 #include<stdio.h> // Include standard input/output library
 
