@@ -1,6 +1,6 @@
 # Basic Coding Problems
 
-Welcome to the "Basic Coding Problems" repository! This repository contains a collection of simple coding problems in four popular programming languages: **Java**, **Python** and **JavaScript**. These problems are designed to help beginners practice fundamental programming concepts and improve their problem-solving skills.
+Welcome to the "Basic Coding Problems" repository! This repository contains a collection of simple coding problems in four popular programming languages: **Java**, **Python**, and **JavaScript**. These problems are designed to help beginners practice fundamental programming concepts and improve their problem-solving skills.
 
 ## Repository Structure
 
